@@ -1,0 +1,1 @@
+export const FOTOPERFIL= require('../Imagens/foto.jpg')
